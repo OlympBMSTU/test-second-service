@@ -1,0 +1,12 @@
+1) Logger
+2) Error to fix -> fix statuses
+   errors to parse 
+   runtime to get info
+3) env to set logger and runtime to set db and othrer services
+   connections and others, then it will put to services
+   maybe repository but no need
+4) interface to service 
+5) sender no need
+6) parser to maybe no need as to env, or need err...
+7) models no need 
+8) think about new entities
